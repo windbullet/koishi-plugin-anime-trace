@@ -3,6 +3,8 @@ import { Jimp } from 'jimp'
 
 export const name = 'anime-trace'
 
+export const usage = "更新日志：https://forum.koishi.xyz/t/topic/9681"
+
 export interface Config {
 
 }
